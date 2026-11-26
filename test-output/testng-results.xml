@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="4" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-25T08:20:15 IST" name="Default suite" finished-at="2026-11-25T08:21:14 IST" duration-ms="58979">
+    <groups>
+    </groups>
+    <test started-at="2026-11-25T08:20:15 IST" name="Default test" finished-at="2026-11-25T08:21:14 IST" duration-ms="58979">
+      <class name="com.TravelTest.test.LoginTestInMultipleScenario">
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:20:15 IST" name="precondition" finished-at="2026-11-25T08:20:18 IST" duration-ms="2499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="checkLoginLink()[pri:0, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:20:18 IST" name="checkLoginLink" finished-at="2026-11-25T08:20:20 IST" duration-ms="2093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoginLink -->
+        <test-method is-config="true" signature="closeAnBrowser()[pri:0, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:20:20 IST" name="closeAnBrowser" finished-at="2026-11-25T08:20:22 IST" duration-ms="2197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAnBrowser -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:20:22 IST" name="precondition" finished-at="2026-11-25T08:20:23 IST" duration-ms="994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="loginWithValidData()[pri:1, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:20:23 IST" name="loginWithValidData" finished-at="2026-11-25T08:20:39 IST" duration-ms="15499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidData -->
+        <test-method is-config="true" signature="closeAnBrowser()[pri:0, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:20:39 IST" name="closeAnBrowser" finished-at="2026-11-25T08:20:41 IST" duration-ms="2201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAnBrowser -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:20:41 IST" name="precondition" finished-at="2026-11-25T08:20:42 IST" duration-ms="1014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="loginWithInValidData()[pri:2, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:20:42 IST" name="loginWithInValidData" finished-at="2026-11-25T08:20:57 IST" duration-ms="15486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInValidData -->
+        <test-method is-config="true" signature="closeAnBrowser()[pri:0, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:20:57 IST" name="closeAnBrowser" finished-at="2026-11-25T08:21:00 IST" duration-ms="2197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAnBrowser -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:21:00 IST" name="precondition" finished-at="2026-11-25T08:21:01 IST" duration-ms="1007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="forgetPasswordLink()[pri:3, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:21:01 IST" name="forgetPasswordLink" finished-at="2026-11-25T08:21:05 IST" duration-ms="4229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetPasswordLink -->
+        <test-method is-config="true" signature="closeAnBrowser()[pri:0, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:21:05 IST" name="closeAnBrowser" finished-at="2026-11-25T08:21:07 IST" duration-ms="2174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAnBrowser -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:21:07 IST" name="precondition" finished-at="2026-11-25T08:21:08 IST" duration-ms="991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="createAnAccountLink()[pri:4, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:21:08 IST" name="createAnAccountLink" finished-at="2026-11-25T08:21:12 IST" duration-ms="4146" status="FAIL">
+          <exception class="org.openqa.selenium.InvalidSelectorException">
+            <message>
+              <![CDATA[invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=158.0.8127.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Build info: version: '4.52.0', revision: '5b37fd4 5b37fd4d98c08d6a43a0790417f91b8f6f32fb5c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [53ff3873ee815d9b6398d5be314133a9, findElement {using=css selector, value=a[data-testid="data-testid="login-register-link"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 158.0.8127.89, chrome: {chromedriverVersion: 158.0.8127.88 (0cefb18236a2..., userDataDir: C:\Users\jayja\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:3053}, goog:processID: 12868, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:3053/devtool..., se:cdpVersion: 158.0.8127.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10...., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 53ff3873ee815d9b6398d5be314133a9]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=158.0.8127.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Build info: version: '4.52.0', revision: '5b37fd4 5b37fd4d98c08d6a43a0790417f91b8f6f32fb5c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [53ff3873ee815d9b6398d5be314133a9, findElement {using=css selector, value=a[data-testid="data-testid="login-register-link"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 158.0.8127.89, chrome: {chromedriverVersion: 158.0.8127.88 (0cefb18236a2..., userDataDir: C:\Users\jayja\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:3053}, goog:processID: 12868, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:3053/devtool..., se:cdpVersion: 158.0.8127.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10...., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 53ff3873ee815d9b6398d5be314133a9
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:253)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:705)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:173)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:457)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:451)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy12.click(Unknown Source)
+at com.TravelTest.Page.LoginPage.createAnAccount(LoginPage.java:53)
+at com.TravelTest.test.LoginTestInMultipleScenario.createAnAccountLink(LoginTestInMultipleScenario.java:67)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:744)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.InvalidSelectorException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnAccountLink -->
+        <test-method is-config="true" signature="closeAnBrowser()[pri:0, instance:com.TravelTest.test.LoginTestInMultipleScenario@f5958c9]" started-at="2026-11-25T08:21:12 IST" name="closeAnBrowser" finished-at="2026-11-25T08:21:14 IST" duration-ms="2197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAnBrowser -->
+      </class> <!-- com.TravelTest.test.LoginTestInMultipleScenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
